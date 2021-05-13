@@ -1,0 +1,900 @@
+w 1 witten_bell 0
+F1 score: 0.5773
+Precision: 0.5513
+Recall: 0.6059
+
+w 1 witten_bell 2
+F1 score: 0.5614
+Precision: 0.5496
+Recall: 0.5738
+
+w 1 absolute 0
+F1 score: 0.5773
+Precision: 0.5513
+Recall: 0.6059
+
+w 1 absolute 2
+F1 score: 0.5614
+Precision: 0.5496
+Recall: 0.5738
+
+w 1 katz 0
+F1 score: 0.5773
+Precision: 0.5513
+Recall: 0.6059
+
+w 1 katz 2
+F1 score: 0.5614
+Precision: 0.5496
+Recall: 0.5738
+
+w 1 kneser_ney 0
+F1 score: 0.5773
+Precision: 0.5513
+Recall: 0.6059
+
+w 1 kneser_ney 2
+F1 score: 0.5614
+Precision: 0.5496
+Recall: 0.5738
+
+w 1 presmoothed 0
+F1 score: 0.5773
+Precision: 0.5513
+Recall: 0.6059
+
+w 1 presmoothed 2
+F1 score: 0.5614
+Precision: 0.5496
+Recall: 0.5738
+
+w 1 unsmoothed 0
+F1 score: 0.5773
+Precision: 0.5513
+Recall: 0.6059
+
+w 1 unsmoothed 2
+F1 score: 0.5614
+Precision: 0.5496
+Recall: 0.5738
+
+w 2 witten_bell 0
+F1 score: 0.7637
+Precision: 0.7851
+Recall: 0.7434
+
+w 2 witten_bell 2
+F1 score: 0.7405
+Precision: 0.7799
+Recall: 0.7049
+
+w 2 absolute 0
+F1 score: 0.7637
+Precision: 0.7851
+Recall: 0.7434
+
+w 2 absolute 2
+F1 score: 0.7405
+Precision: 0.7799
+Recall: 0.7049
+
+w 2 katz 0
+F1 score: 0.7589
+Precision: 0.7803
+Recall: 0.7388
+
+w 2 katz 2
+F1 score: 0.7372
+Precision: 0.7761
+Recall: 0.7021
+
+w 2 kneser_ney 0
+F1 score: 0.7627
+Precision: 0.7841
+Recall: 0.7424
+
+w 2 kneser_ney 2
+F1 score: 0.7401
+Precision: 0.7791
+Recall: 0.7049
+
+w 2 presmoothed 0
+F1 score: 0.7627
+Precision: 0.7841
+Recall: 0.7424
+
+w 2 presmoothed 2
+F1 score: 0.7411
+Precision: 0.7801
+Recall: 0.7058
+
+w 2 unsmoothed 0
+F1 score: 0.7621
+Precision: 0.7839
+Recall: 0.7415
+
+w 2 unsmoothed 2
+F1 score: 0.7386
+Precision: 0.7779
+Recall: 0.7030
+
+w 3 witten_bell 0
+F1 score: 0.7558
+Precision: 0.7658
+Recall: 0.7461
+
+w 3 witten_bell 2
+F1 score: 0.7328
+Precision: 0.7556
+Recall: 0.7113
+
+w 3 absolute 0
+F1 score: 0.7567
+Precision: 0.7667
+Recall: 0.7470
+
+w 3 absolute 2
+F1 score: 0.7328
+Precision: 0.7556
+Recall: 0.7113
+
+w 3 katz 0
+F1 score: 0.7411
+Precision: 0.7560
+Recall: 0.7269
+
+w 3 katz 2
+F1 score: 0.7146
+Precision: 0.7440
+Recall: 0.6874
+
+w 3 kneser_ney 0
+F1 score: 0.7567
+Precision: 0.7667
+Recall: 0.7470
+
+w 3 kneser_ney 2
+F1 score: 0.7318
+Precision: 0.7546
+Recall: 0.7104
+
+w 3 presmoothed 0
+F1 score: 0.6795
+Precision: 0.6481
+Recall: 0.7140
+
+w 3 presmoothed 2
+F1 score: 0.6284
+Precision: 0.5896
+Recall: 0.6728
+
+w 3 unsmoothed 0
+F1 score: 0.7552
+Precision: 0.7655
+Recall: 0.7452
+
+w 3 unsmoothed 2
+F1 score: 0.7312
+Precision: 0.7544
+Recall: 0.7094
+
+w 4 witten_bell 0
+F1 score: 0.7622
+Precision: 0.7711
+Recall: 0.7534
+
+w 4 witten_bell 2
+F1 score: 0.7352
+Precision: 0.7565
+Recall: 0.7149
+
+w 4 absolute 0
+F1 score: 0.7619
+Precision: 0.7716
+Recall: 0.7525
+
+w 4 absolute 2
+F1 score: 0.7387
+Precision: 0.7609
+Recall: 0.7177
+
+w 4 katz 0
+F1 score: 0.7326
+Precision: 0.7257
+Recall: 0.7397
+
+w 4 katz 2
+F1 score: 0.6774
+Precision: 0.6609
+Recall: 0.6948
+
+w 4 kneser_ney 0
+F1 score: 0.7619
+Precision: 0.7687
+Recall: 0.7553
+
+w 4 kneser_ney 2
+F1 score: 0.7379
+Precision: 0.7582
+Recall: 0.7186
+
+w 4 presmoothed 0
+F1 score: 0.6701
+Precision: 0.6228
+Recall: 0.7250
+
+w 4 presmoothed 2
+F1 score: 0.6214
+Precision: 0.5695
+Recall: 0.6838
+
+w 4 unsmoothed 0
+F1 score: 0.7600
+Precision: 0.7715
+Recall: 0.7489
+
+w 4 unsmoothed 2
+F1 score: 0.7337
+Precision: 0.7566
+Recall: 0.7122
+
+w 5 witten_bell 0
+F1 score: 0.7632
+Precision: 0.7703
+Recall: 0.7562
+
+w 5 witten_bell 2
+F1 score: 0.7385
+Precision: 0.7555
+Recall: 0.7223
+
+w 5 absolute 0
+F1 score: 0.7615
+Precision: 0.7697
+Recall: 0.7534
+
+w 5 absolute 2
+F1 score: 0.7377
+Precision: 0.7558
+Recall: 0.7204
+
+w 5 katz 0
+F1 score: 0.6333
+Precision: 0.5695
+Recall: 0.7131
+
+w 5 katz 2
+F1 score: 0.5944
+Precision: 0.5318
+Recall: 0.6737
+
+w 5 kneser_ney 0
+F1 score: 0.7616
+Precision: 0.7679
+Recall: 0.7553
+
+w 5 kneser_ney 2
+F1 score: 0.7385
+Precision: 0.7555
+Recall: 0.7223
+
+w 5 presmoothed 0
+F1 score: 0.6689
+Precision: 0.6236
+Recall: 0.7214
+
+w 5 presmoothed 2
+F1 score: 0.6187
+Precision: 0.5662
+Recall: 0.6819
+
+w 5 unsmoothed 0
+F1 score: 0.7605
+Precision: 0.7735
+Recall: 0.7479
+
+w 5 unsmoothed 2
+F1 score: 0.7347
+Precision: 0.7575
+Recall: 0.7131
+
+w_and_c 1 witten_bell 0
+F1 score: 0.5590
+Precision: 0.4975
+Recall: 0.6379
+
+w_and_c 1 witten_bell 2
+F1 score: 0.5310
+Precision: 0.4646
+Recall: 0.6196
+
+w_and_c 1 absolute 0
+F1 score: 0.5590
+Precision: 0.4975
+Recall: 0.6379
+
+w_and_c 1 absolute 2
+F1 score: 0.5310
+Precision: 0.4646
+Recall: 0.6196
+
+w_and_c 1 katz 0
+F1 score: 0.5590
+Precision: 0.4975
+Recall: 0.6379
+
+w_and_c 1 katz 2
+F1 score: 0.5310
+Precision: 0.4646
+Recall: 0.6196
+
+w_and_c 1 kneser_ney 0
+F1 score: 0.5590
+Precision: 0.4975
+Recall: 0.6379
+
+w_and_c 1 kneser_ney 2
+F1 score: 0.5310
+Precision: 0.4646
+Recall: 0.6196
+
+w_and_c 1 presmoothed 0
+F1 score: 0.5590
+Precision: 0.4975
+Recall: 0.6379
+
+w_and_c 1 presmoothed 2
+F1 score: 0.5310
+Precision: 0.4646
+Recall: 0.6196
+
+w_and_c 1 unsmoothed 0
+F1 score: 0.5590
+Precision: 0.4975
+Recall: 0.6379
+
+w_and_c 1 unsmoothed 2
+F1 score: 0.5310
+Precision: 0.4646
+Recall: 0.6196
+
+w_and_c 2 witten_bell 0
+F1 score: 0.7931
+Precision: 0.7835
+Recall: 0.8029
+
+w_and_c 2 witten_bell 2
+F1 score: 0.7782
+Precision: 0.7719
+Recall: 0.7846
+
+w_and_c 2 absolute 0
+F1 score: 0.7893
+Precision: 0.7805
+Recall: 0.7984
+
+w_and_c 2 absolute 2
+F1 score: 0.7783
+Precision: 0.7731
+Recall: 0.7837
+
+w_and_c 2 katz 0
+F1 score: 0.7884
+Precision: 0.7796
+Recall: 0.7974
+
+w_and_c 2 katz 2
+F1 score: 0.7772
+Precision: 0.7726
+Recall: 0.7819
+
+w_and_c 2 kneser_ney 0
+F1 score: 0.7945
+Precision: 0.7916
+Recall: 0.7974
+
+w_and_c 2 kneser_ney 2
+F1 score: 0.7813
+Precision: 0.7799
+Recall: 0.7828
+
+w_and_c 2 presmoothed 0
+F1 score: 0.7758
+Precision: 0.7594
+Recall: 0.7929
+
+w_and_c 2 presmoothed 2
+F1 score: 0.7704
+Precision: 0.7584
+Recall: 0.7828
+
+w_and_c 2 unsmoothed 0
+F1 score: 0.7616
+Precision: 0.7359
+Recall: 0.7892
+
+w_and_c 2 unsmoothed 2
+F1 score: 0.7531
+Precision: 0.7304
+Recall: 0.7773
+
+w_and_c 3 witten_bell 0
+F1 score: 0.8133
+Precision: 0.8004
+Recall: 0.8268
+
+w_and_c 3 witten_bell 2
+F1 score: 0.8105
+Precision: 0.8018
+Recall: 0.8194
+
+w_and_c 3 absolute 0
+F1 score: 0.8137
+Precision: 0.8029
+Recall: 0.8249
+
+w_and_c 3 absolute 2
+F1 score: 0.8074
+Precision: 0.7984
+Recall: 0.8167
+
+w_and_c 3 katz 0
+F1 score: 0.8085
+Precision: 0.7935
+Recall: 0.8240
+
+w_and_c 3 katz 2
+F1 score: 0.8034
+Precision: 0.7923
+Recall: 0.8148
+
+w_and_c 3 kneser_ney 0
+F1 score: 0.8204
+Precision: 0.8160
+Recall: 0.8249
+
+w_and_c 3 kneser_ney 2
+F1 score: 0.8108
+Precision: 0.8067
+Recall: 0.8148
+
+w_and_c 3 presmoothed 0
+F1 score: 0.7954
+Precision: 0.7727
+Recall: 0.8194
+
+w_and_c 3 presmoothed 2
+F1 score: 0.7891
+Precision: 0.7698
+Recall: 0.8093
+
+w_and_c 3 unsmoothed 0
+F1 score: 0.7840
+Precision: 0.7523
+Recall: 0.8185
+
+w_and_c 3 unsmoothed 2
+F1 score: 0.7746
+Precision: 0.7426
+Recall: 0.8093
+
+w_and_c 4 witten_bell 0
+F1 score: 0.8142
+Precision: 0.8012
+Recall: 0.8277
+
+w_and_c 4 witten_bell 2
+F1 score: 0.8076
+Precision: 0.7979
+Recall: 0.8176
+
+w_and_c 4 absolute 0
+F1 score: 0.8157
+Precision: 0.8041
+Recall: 0.8277
+
+w_and_c 4 absolute 2
+F1 score: 0.8098
+Precision: 0.8022
+Recall: 0.8176
+
+w_and_c 4 katz 0
+F1 score: 0.8117
+Precision: 0.7963
+Recall: 0.8277
+
+w_and_c 4 katz 2
+F1 score: 0.8036
+Precision: 0.7918
+Recall: 0.8158
+
+w_and_c 4 kneser_ney 0
+F1 score: 0.8274
+Precision: 0.8244
+Recall: 0.8304
+
+w_and_c 4 kneser_ney 2
+F1 score: 0.8156
+Precision: 0.8144
+Recall: 0.8167
+
+w_and_c 4 presmoothed 0
+F1 score: 0.7986
+Precision: 0.7739
+Recall: 0.8249
+
+w_and_c 4 presmoothed 2
+F1 score: 0.7895
+Precision: 0.7673
+Recall: 0.8130
+
+w_and_c 4 unsmoothed 0
+F1 score: 0.7821
+Precision: 0.7551
+Recall: 0.8112
+
+w_and_c 4 unsmoothed 2
+F1 score: 0.7722
+Precision: 0.7462
+Recall: 0.8002
+
+w_and_c 5 witten_bell 0
+F1 score: 0.8126
+Precision: 0.8007
+Recall: 0.8249
+
+w_and_c 5 witten_bell 2
+F1 score: 0.8091
+Precision: 0.8007
+Recall: 0.8176
+
+w_and_c 5 absolute 0
+F1 score: 0.8134
+Precision: 0.8021
+Recall: 0.8249
+
+w_and_c 5 absolute 2
+F1 score: 0.8071
+Precision: 0.7995
+Recall: 0.8148
+
+w_and_c 5 katz 0
+F1 score: 0.8108
+Precision: 0.7954
+Recall: 0.8268
+
+w_and_c 5 katz 2
+F1 score: 0.8036
+Precision: 0.7918
+Recall: 0.8158
+
+w_and_c 5 kneser_ney 0
+F1 score: 0.8243
+Precision: 0.8209
+Recall: 0.8277
+
+w_and_c 5 kneser_ney 2
+F1 score: 0.8148
+Precision: 0.8130
+Recall: 0.8167
+
+w_and_c 5 presmoothed 0
+F1 score: 0.7947
+Precision: 0.7698
+Recall: 0.8213
+
+w_and_c 5 presmoothed 2
+F1 score: 0.7865
+Precision: 0.7640
+Recall: 0.8103
+
+w_and_c 5 unsmoothed 0
+F1 score: 0.7818
+Precision: 0.7560
+Recall: 0.8093
+
+w_and_c 5 unsmoothed 2
+F1 score: 0.7697
+Precision: 0.7446
+Recall: 0.7965
+
+w_plus_c 1 witten_bell 0
+F1 score: 0.5676
+Precision: 0.5411
+Recall: 0.5967
+
+w_plus_c 1 witten_bell 2
+F1 score: 0.5522
+Precision: 0.5419
+Recall: 0.5628
+
+w_plus_c 1 absolute 0
+F1 score: 0.5737
+Precision: 0.5485
+Recall: 0.6013
+
+w_plus_c 1 absolute 2
+F1 score: 0.5581
+Precision: 0.5482
+Recall: 0.5683
+
+w_plus_c 1 katz 0
+F1 score: 0.5739
+Precision: 0.5490
+Recall: 0.6013
+
+w_plus_c 1 katz 2
+F1 score: 0.5598
+Precision: 0.5516
+Recall: 0.5683
+
+w_plus_c 1 kneser_ney 0
+F1 score: 0.5693
+Precision: 0.5428
+Recall: 0.5985
+
+w_plus_c 1 kneser_ney 2
+F1 score: 0.5519
+Precision: 0.5414
+Recall: 0.5628
+
+w_plus_c 1 presmoothed 0
+F1 score: 0.5641
+Precision: 0.5378
+Recall: 0.5930
+
+w_plus_c 1 presmoothed 2
+F1 score: 0.5579
+Precision: 0.5488
+Recall: 0.5674
+
+w_plus_c 1 unsmoothed 0
+F1 score: 0.5717
+Precision: 0.5464
+Recall: 0.5995
+
+w_plus_c 1 unsmoothed 2
+F1 score: 0.5573
+Precision: 0.5484
+Recall: 0.5665
+
+w_plus_c 2 witten_bell 0
+F1 score: 0.7896
+Precision: 0.7846
+Recall: 0.7947
+
+w_plus_c 2 witten_bell 2
+F1 score: 0.7685
+Precision: 0.7688
+Recall: 0.7681
+
+w_plus_c 2 absolute 0
+F1 score: 0.7843
+Precision: 0.7804
+Recall: 0.7883
+
+w_plus_c 2 absolute 2
+F1 score: 0.7681
+Precision: 0.7727
+Recall: 0.7635
+
+w_plus_c 2 katz 0
+F1 score: 0.7830
+Precision: 0.7788
+Recall: 0.7874
+
+w_plus_c 2 katz 2
+F1 score: 0.7692
+Precision: 0.7731
+Recall: 0.7654
+
+w_plus_c 2 kneser_ney 0
+F1 score: 0.7794
+Precision: 0.7752
+Recall: 0.7837
+
+w_plus_c 2 kneser_ney 2
+F1 score: 0.7654
+Precision: 0.7682
+Recall: 0.7626
+
+w_plus_c 2 presmoothed 0
+F1 score: 0.7699
+Precision: 0.7540
+Recall: 0.7864
+
+w_plus_c 2 presmoothed 2
+F1 score: 0.7563
+Precision: 0.7475
+Recall: 0.7654
+
+w_plus_c 2 unsmoothed 0
+F1 score: 0.7795
+Precision: 0.7701
+Recall: 0.7892
+
+w_plus_c 2 unsmoothed 2
+F1 score: 0.7731
+Precision: 0.7717
+Recall: 0.7745
+
+w_plus_c 3 witten_bell 0
+F1 score: 0.7823
+Precision: 0.7711
+Recall: 0.7938
+
+w_plus_c 3 witten_bell 2
+F1 score: 0.7685
+Precision: 0.7599
+Recall: 0.7773
+
+w_plus_c 3 absolute 0
+F1 score: 0.7811
+Precision: 0.7679
+Recall: 0.7947
+
+w_plus_c 3 absolute 2
+F1 score: 0.7660
+Precision: 0.7595
+Recall: 0.7727
+
+w_plus_c 3 katz 0
+F1 score: 0.7766
+Precision: 0.7619
+Recall: 0.7919
+
+w_plus_c 3 katz 2
+F1 score: 0.7594
+Precision: 0.7482
+Recall: 0.7709
+
+w_plus_c 3 kneser_ney 0
+F1 score: 0.7882
+Precision: 0.7784
+Recall: 0.7984
+
+w_plus_c 3 kneser_ney 2
+F1 score: 0.7765
+Precision: 0.7712
+Recall: 0.7819
+
+w_plus_c 3 presmoothed 0
+F1 score: 0.7796
+Precision: 0.7552
+Recall: 0.8057
+
+w_plus_c 3 presmoothed 2
+F1 score: 0.7675
+Precision: 0.7453
+Recall: 0.7910
+
+w_plus_c 3 unsmoothed 0
+F1 score: 0.7896
+Precision: 0.7749
+Recall: 0.8048
+
+w_plus_c 3 unsmoothed 2
+F1 score: 0.7763
+Precision: 0.7656
+Recall: 0.7874
+
+w_plus_c 4 witten_bell 0
+F1 score: 0.7834
+Precision: 0.7699
+Recall: 0.7974
+
+w_plus_c 4 witten_bell 2
+F1 score: 0.7701
+Precision: 0.7605
+Recall: 0.7800
+
+w_plus_c 4 absolute 0
+F1 score: 0.7812
+Precision: 0.7691
+Recall: 0.7938
+
+w_plus_c 4 absolute 2
+F1 score: 0.7743
+Precision: 0.7659
+Recall: 0.7828
+
+w_plus_c 4 katz 0
+F1 score: 0.7804
+Precision: 0.7666
+Recall: 0.7947
+
+w_plus_c 4 katz 2
+F1 score: 0.7683
+Precision: 0.7587
+Recall: 0.7782
+
+w_plus_c 4 kneser_ney 0
+F1 score: 0.7951
+Precision: 0.7883
+Recall: 0.8020
+
+w_plus_c 4 kneser_ney 2
+F1 score: 0.7823
+Precision: 0.7774
+Recall: 0.7874
+
+w_plus_c 4 presmoothed 0
+F1 score: 0.7745
+Precision: 0.7481
+Recall: 0.8029
+
+w_plus_c 4 presmoothed 2
+F1 score: 0.7643
+Precision: 0.7410
+Recall: 0.7892
+
+w_plus_c 4 unsmoothed 0
+F1 score: 0.7845
+Precision: 0.7703
+Recall: 0.7993
+
+w_plus_c 4 unsmoothed 2
+F1 score: 0.7699
+Precision: 0.7610
+Recall: 0.7791
+
+w_plus_c 5 witten_bell 0
+F1 score: 0.7885
+Precision: 0.7762
+Recall: 0.8011
+
+w_plus_c 5 witten_bell 2
+F1 score: 0.7752
+Precision: 0.7668
+Recall: 0.7837
+
+w_plus_c 5 absolute 0
+F1 score: 0.7863
+Precision: 0.7737
+Recall: 0.7993
+
+w_plus_c 5 absolute 2
+F1 score: 0.7721
+Precision: 0.7634
+Recall: 0.7809
+
+w_plus_c 5 katz 0
+F1 score: 0.7793
+Precision: 0.7646
+Recall: 0.7947
+
+w_plus_c 5 katz 2
+F1 score: 0.7660
+Precision: 0.7551
+Recall: 0.7773
+
+w_plus_c 5 kneser_ney 0
+F1 score: 0.7949
+Precision: 0.7871
+Recall: 0.8029
+
+w_plus_c 5 kneser_ney 2
+F1 score: 0.7905
+Precision: 0.7873
+Recall: 0.7938
+
+w_plus_c 5 presmoothed 0
+F1 score: 0.7754
+Precision: 0.7489
+Recall: 0.8038
+
+w_plus_c 5 presmoothed 2
+F1 score: 0.7631
+Precision: 0.7395
+Recall: 0.7883
+
+w_plus_c 5 unsmoothed 0
+F1 score: 0.7863
+Precision: 0.7737
+Recall: 0.7993
+
+w_plus_c 5 unsmoothed 2
+F1 score: 0.7752
+Precision: 0.7668
+Recall: 0.7837
+
