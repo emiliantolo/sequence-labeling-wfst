@@ -2,9 +2,11 @@
 
 ## Description
 
-__Concept Tagging for Movie Domain__ project of the Language Understanding Systems course, University of Trento, 2021
+__Concept Tagging for Movie Domain__ project
 
-[Report for the project] (report.pdf)
+Language Understanding Systems course, University of Trento, 2021
+
+[Report for the project](report.pdf)
 
 ## Repository Structure
 
